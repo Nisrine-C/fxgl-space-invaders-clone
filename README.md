@@ -65,7 +65,7 @@ src/
 
 ## Screenshots
 
-*Add gameplay screenshots here!*
+
 
 
 ## Acknowledgments
